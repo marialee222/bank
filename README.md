@@ -44,7 +44,7 @@ npm start
 	Simply click here to try out the app and watch the walk-through:
 	
 	website:  http://maria-leebankingapplication.s3-website.us-east-2.amazonaws.com/
-	video walk-through:  Maria Lee's Front-End Banking Application
+	video walk-through:  [Maria Lee's Front-End Banking Application](https://www.youtube.com/watch?v=Ow51fsxeB1E)
 
 ## Roadmap of Future Improvements
 Future improvements for the Bank App include:
