@@ -1,7 +1,8 @@
 #### MIT xPRO Fullstack Development
 ## BadBank App
 ### Create Account, Deposit, Withdraw
-Simulation link: [BadBank App](https://marialee222.github.io/bank/)
+Simulation link: [BadBank App](http://maria-leebankingapplication.s3-website.us-east-2.amazonaws.com/![image](https://github.com/marialee222/bank/assets/150623001/c45572bb-37ef-4a2f-8ea4-6b20c8f463d6)
+)
 
 ## Description 
 The Bad Bank app offers users the convenience of managing their finances seamlessly. Users can create accounts, log in securely, and perform transactions such as deposits and withdrawals effortlessly. Leveraging React for dynamic updates, the app ensures real-time balance adjustments and transaction validation. With a sleek and intuitive interface crafted using CSS and powered by Bootstrap, users experience a user-friendly environment for all their banking needs.
