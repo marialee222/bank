@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+#### MIT xPRO Fullstack Development
+## BadBank App
+### Create Account, Deposit, Withdraw
+Simulation link: [BadBank App](https://marialee222.github.io/bank/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description 
+The Bad Bank app offers users the convenience of managing their finances seamlessly. Users can create accounts, log in securely, and perform transactions such as deposits and withdrawals effortlessly. Leveraging React for dynamic updates, the app ensures real-time balance adjustments and transaction validation. With a sleek and intuitive interface crafted using CSS and powered by Bootstrap, users experience a user-friendly environment for all their banking needs.
 
-## Available Scripts
+###
 
-In the project directory, you can run:
 
-### `npm start`
+### Overall Flow and Improvements
+Updates made to enhance user experience and functionality: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+	- A favicon is linked for branding purposes.
+	- React components are loaded into the root element with various scripts.
+	- React, ReactDOM, and React Router libraries are imported for client-side rendering and routing.
+	- Bootstrap JavaScript and its dependencies are included for interactive UI elements.
+	- Individual React components such as context, navigation bar, account creation, login, deposit, withdrawal, balance checking, data display, home page, and index are deferred for asynchronous loading.
+	- Implemented login/logout functionality with error handling and protected routes for authentication.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Run
+To run the Bank App on your machine, follow these steps: 
 
-### `npm test`
+	1. First, clone the Bank repository to your local machine using the following command:
+git clone https://github.com/marialee222/bank.git 
+	
+	2. Navigate to the directory where you cloned the Bank repository in your terminal.
+cd bank
+	 
+	3. Install the necessary dependencies by running:
+npm install 
+	
+	4. Build and run the application:
+npm start 
+	
+	5. Open your preferred browser and navigate to the local server (usually http://localhost:3000).
+	
+	6. Try out the Bank app!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-OR-
+	
+	Simply click here to try out the app and watch the walk-through:
+	
+	website:  http://maria-leebankingapplication.s3-website.us-east-2.amazonaws.com/
+	video walk-through:  Maria Lee's Front-End Banking Application
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Roadmap of Future Improvements
+Future improvements for the Bank App include:
+	- Implement Two-Factor Authentication (2FA)
+	- Create a Detailed User Dashboard
+	- Add Transaction Categories and Budgeting Tools
+	- Develop a Mobile App
+	- Introduce Personalization Features and Notifications
+   
+:star: Feel free to contribute ideas or collaborate on these enhancements! :star:
+![image](https://github.com/marialee222/bank/assets/150623001/4020c8b2-768e-4db6-9071-3db27ba86f6b)
