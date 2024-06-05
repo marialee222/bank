@@ -17,34 +17,31 @@ Updates made to enhance user experience and functionality:
 	- React components are loaded into the root element with various scripts.
 	- React, ReactDOM, and React Router libraries are imported for client-side rendering and routing.
 	- Bootstrap JavaScript and its dependencies are included for interactive UI elements.
-	- Individual React components such as context, navigation bar, account creation, login, deposit, withdrawal, balance checking, data display, home page, and index are deferred for asynchronous loading.
+	- Individual React components such as context, navigation bar, account creation, login, deposit, withdrawal, 
+ 		balance checking, data display, home page, and index are deferred for asynchronous loading.
 	- Implemented login/logout functionality with error handling and protected routes for authentication.
 
 ## How to Run
 To run the Bank App on your machine, follow these steps: 
 
-	1. First, clone the Bank repository to your local machine using the following command:
-git clone https://github.com/marialee222/bank.git 
+	1. First, clone the Bank repository to your local machine using the following command:  git clone https://github.com/marialee222/bank.git 
 	
-	2. Navigate to the directory where you cloned the Bank repository in your terminal.
-cd bank
+	2. Navigate to the directory where you cloned the Bank repository in your terminal:  cd bank
 	 
-	3. Install the necessary dependencies by running:
-npm install 
+	3. Install the necessary dependencies by running:  npm install 
 	
-	4. Build and run the application:
-npm start 
+	4. Build and run the application:  npm start 
 	
 	5. Open your preferred browser and navigate to the local server (usually http://localhost:3000).
 	
 	6. Try out the Bank app!
 
--OR-
+	-OR-
 	
 	Simply click here to try out the app and watch the walk-through:
 	
 	website:  http://maria-leebankingapplication.s3-website.us-east-2.amazonaws.com/
-	video walk-through:  [Maria Lee's Front-End Banking Application](https://www.youtube.com/watch?v=Ow51fsxeB1E)
+	video walk-through:  https://www.youtube.com/watch?v=Ow51fsxeB1E
 
 ## Roadmap of Future Improvements
 Future improvements for the Bank App include:
@@ -54,5 +51,4 @@ Future improvements for the Bank App include:
 	- Develop a Mobile App
 	- Introduce Personalization Features and Notifications
    
-:star: Feel free to contribute ideas or collaborate on these enhancements! :star:
-![image](https://github.com/marialee222/bank/assets/150623001/4020c8b2-768e-4db6-9071-3db27ba86f6b)
+:star: Feel free to contribute ideas or collaborate on these enhancements!
