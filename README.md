@@ -45,10 +45,10 @@ To run the Bank App on your machine, follow these steps:
 
 ## Roadmap of Future Improvements
 Future improvements for the Bank App include:
-	- Implement Two-Factor Authentication (2FA)
-	- Create a Detailed User Dashboard
-	- Add Transaction Categories and Budgeting Tools
-	- Develop a Mobile App
-	- Introduce Personalization Features and Notifications
+	- Implement Two-Factor Authentication (2FA).
+	- Create a Detailed User Dashboard.
+	- Add Transaction Categories and Budgeting Tools.
+	- Develop a Mobile App.
+	- Introduce Personalization Features and Notifications.
    
 :star: Feel free to contribute ideas or collaborate on these enhancements!
