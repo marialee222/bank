@@ -1,7 +1,7 @@
 #### MIT xPRO Fullstack Development
 ## BadBank App
 ### Create Account, Deposit, Withdraw
-Simulation link: [BadBank App](http://maria-leebankingapplication.s3-website.us-east-2.amazonaws.com/![image](https://github.com/marialee222/bank/assets/150623001/c45572bb-37ef-4a2f-8ea4-6b20c8f463d6)
+Simulation link: [BadBank App](http://maria-leebankingapplication.s3-website.us-east-2.amazonaws.com/
 )
 
 ## Description 
