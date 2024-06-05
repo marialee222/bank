@@ -8,6 +8,8 @@ Simulation link: [BadBank App](http://maria-leebankingapplication.s3-website.us-
 The Bad Bank app offers users the convenience of managing their finances seamlessly. Users can create accounts, log in securely, and perform transactions such as deposits and withdrawals effortlessly. Leveraging React for dynamic updates, the app ensures real-time balance adjustments and transaction validation. With a sleek and intuitive interface crafted using CSS and powered by Bootstrap, users experience a user-friendly environment for all their banking needs.
 
 ###
+![badbank1](https://github.com/marialee222/bank/assets/150623001/bf3a1aa3-73cb-4562-a5ab-b1e8405a95c9)
+
 ![badbank3](https://github.com/marialee222/bank/assets/150623001/19d45777-9164-49b2-974c-49d6aea5e207)
 
 
